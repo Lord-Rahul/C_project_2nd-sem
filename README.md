@@ -35,7 +35,7 @@ A C program that simulates the operations of a basic bank management system, suc
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/C_Projects.git
+git clone https://github.com/Lord-Rahul/C_project_2nd-sem.git
 ```
 Navigate to the project folder.
 
